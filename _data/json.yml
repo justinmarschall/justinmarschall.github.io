@@ -1,0 +1,50 @@
+
+- key: Justin Marschall
+  value: Data Scientist
+- key: Experience
+  value: Amazon Ads
+- key: Skills
+  value:
+    - Python
+    - AWS EC2
+    - Amazon Marketing Cloud
+    - AWS Sagemaker
+    - Machine Learning
+    - R
+    - Advanced Statistics
+    - Consulting
+    - Sales Enablement
+    - AWS S3
+    - C-Suite Presentations
+    - Data Visualization
+    - Automation
+    - Linux
+    - AWS Redshift
+    - Marketing Analytics
+    - SQL
+    - Version Control (Git)
+    - AWS CodeCommit
+    - Clean Rooms
+    - Interviewing & Hiring
+    - AWS Athena
+    - Management
+    - App Development w/ Shiny & Streamlit
+  typed: true
+- key: CV
+  value: marschall_cv.pdf
+  url: /marschall_cv.pdf
+- key: Locale
+  value: New York City
+- key: Contact
+  value:
+    - key: Phone
+      value: +1 262 286 1129
+    - key: Email
+      value: justin.c.marschall@gmail.com
+      url: "mailto:justin.c.marschall@gmail.com"
+- key: Profiles
+  value:
+    - value: LinkedIn
+      url: https://www.linkedin.com/in/justinmarschall/
+    - value: GitHub
+      url: https://github.com/justinmarschall
