@@ -19,7 +19,7 @@
     - AWS S3
     - C-Suite Presentations
     - Data Visualization
-    - Automation
+    - Automation & Scaling
     - Linux
     - AWS Redshift
     - Marketing Analytics
@@ -31,10 +31,11 @@
     - AWS Athena
     - Management
     - App Development w/ Shiny & Streamlit
+    - AWS EMR
   typed: true
-- key: CV
-  value: marschall_cv.pdf
-  url: /marschall_cv.pdf
+- key: Resume
+  value: justin_marschall_resume.pdf
+  url: /justin_marschall_resume.pdf
 - key: Locale
   value: New York City
 - key: Contact
